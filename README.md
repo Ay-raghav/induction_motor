@@ -1,2 +1,8 @@
 # induction_motor
-This is a model of induction machince based on undergrad cource.
+--
+Problem Statement : To get circle daigram of induction motor from experimental data
+--
+Solution --> Software used : MATLAB \
+Developed : Matlab APP \
+To use the solution provided install the app in matlab \
+Solution might be updated in future \
